@@ -10,8 +10,7 @@
 
 ## 🔥 Streak stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aishanipach&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AG-444&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D))](https://git.io/streak-stats)
 
    <br> 
    
