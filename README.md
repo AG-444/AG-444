@@ -3,9 +3,14 @@
    
 <!-- Typing SVG - https://github.com/Aishanipach/readme-typing-svg -->
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/aditya-garg-408298249//#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/aditya-garg-408298249/#gh-dark-mode-only )
+[![website](./img/twitter-light.svg)](https://twitter.com/AnmolGa46309921#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/AnmolGa46309921#gh-dark-mode-only)
 &nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/anmol-garg-790516203/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/anmol-garg-790516203/#gh-dark-mode-only )
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/anmol_garg2001/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/anmol_garg2001/#gh-dark-mode-only)
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
