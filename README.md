@@ -2,9 +2,10 @@
    <h1>Hi there, I'm Aditya Garg</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="45px"> </h1>
    
 <!-- Typing SVG - https://github.com/Aishanipach/readme-typing-svg -->
-<p align="center">
-<a href="https://github.com/AG-444/AG-444#readme"><img src="https://readme-typing-svg.herokuapp.com?color=70A4FC&center=true&lines=Front-End+Developer;Unity-+Augmented+Reality+Dev;UI%2FUX;Sippin'+Coffee%2C+Missin'+Semicolons"></a>
-</p>
+### Connect with me:
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/aditya-garg-408298249//#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/aditya-garg-408298249/#gh-dark-mode-only )
+&nbsp;&nbsp;
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
