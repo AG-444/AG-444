@@ -1,19 +1,12 @@
 <div align="center">
    <h1>Hi there, I'm Aditya Garg</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="45px"> </h1>
    
-<!-- Typing SVG - https://github.com/Aishanipach/readme-typing-svg -->
-### Connect with me:
-[![website](./img/twitter-light.svg)](https://twitter.com/AnmolGa46309921#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/AnmolGa46309921#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/anmol-garg-790516203/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/anmol-garg-790516203/#gh-dark-mode-only )
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/anmol_garg2001/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/anmol_garg2001/#gh-dark-mode-only)
+<b>*Connect With Me*:</b> 
 
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+[<img alt="LinkedIn" width="25px" src="assets/linkedin.svg">](https://www.linkedin.com/in/SamirPaul) &nbsp; 
+[<img alt="Twitter" width="25px" src="assets/twitter.svg">](https://twitter.com/intent/follow?screen_name=SamirPaulb)
 
+ <b> </b>
 ## 🔥 Streak stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AG-444&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D))](https://git.io/streak-stats)
