@@ -4,7 +4,7 @@
 <b>*Connect With Me*:</b> 
 
 [<img alt="LinkedIn" width="25px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg">](https://www.linkedin.com/in/aditya-garg-408298249/) &nbsp; 
-[<img alt="Twitter" width="25px" src="assets/twitter.svg">](https://twitter.com/intent/follow?screen_name=SamirPaulb)
+[<img alt="Instagram" width="25px" src="https://www.transparentpng.com/thumb/logo-instagram/JFyofc-logo-instagram-background-png.png" alt="logo instagram background png @transparentpng.com">](https://www.instagram.com/aditya444garg/?igshid=NTE5MzUyOTU%3D)
 
  <b> </b>
 ## 🔥 Streak stats
