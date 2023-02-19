@@ -3,7 +3,7 @@
    
 <b>*Connect With Me*:</b> 
 
-[<img alt="LinkedIn" width="25px" src="https://www.pngfind.com/pngs/m/277-2773517_instagram-logo-white-logo-instagram-png-putih-transparent.png">](https://www.linkedin.com/in/SamirPaul) &nbsp; 
+[<img alt="LinkedIn" width="25px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg">](https://www.linkedin.com/in/SamirPaul) &nbsp; 
 [<img alt="Twitter" width="25px" src="assets/twitter.svg">](https://twitter.com/intent/follow?screen_name=SamirPaulb)
 
  <b> </b>
