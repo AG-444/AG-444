@@ -9,7 +9,7 @@
  <b> </b>
 ## 🔥 Streak stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AG-444&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AG-444&theme=tokyonight)](https://git.io/streak-stats)
 <br> 
    
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so feel free to say <b>hi, hit me up on Linkedin or any other social! </b> 😊</em>
