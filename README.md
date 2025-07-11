@@ -19,25 +19,21 @@
 - FastAPI and advanced backend techniques
 - OpenWeather APIs and real-time data handling
 - Modern deployment strategies with Netlify and Firebase
-
+- AWS Solutions Architect Certification
+  
 ## 👨‍💻 All my projects are available at
 [https://github.com/AG-444](https://github.com/AG-444)
 
 ## 💬 Ask me about
 - MERN Stack
 - JavaScript, React, Node.js
-- Firebase integrations and CI/CD workflows
 
 ## 📫 How to reach me
 **aditya444garg@gmail.com**
 
 ## 📄 Know about my experiences
-[My Resume](https://github.com/AG-444/Aditya_Garg_Resume/blob/main/Aditya_Garg_Fullstack_Developer_Resume_4.pdf)
+[My Resume](https://drive.google.com/file/d/1FTywmjrX4md6UplQJOwQO5T_UzjHjzfs/view?usp=sharing)
 
-## ⚡ Fun fact
-I deploy websites faster than you debug your `console.log()`s 😄
-
----
 
 ## 🛠 Technical Skills
 
@@ -86,7 +82,7 @@ I deploy websites faster than you debug your `console.log()`s 😄
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AG-444&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AG-444&theme=radical" />
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AG-444&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 <div align="center">
