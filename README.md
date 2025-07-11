@@ -81,9 +81,7 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AG-444&theme=onedark&hide_border=true" alt="GitHub Streak" /></a>
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AG-444&bg_color=000000&color=4c9e65&line=05fe01&point=008015&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 <br/>
 <div align="center">
