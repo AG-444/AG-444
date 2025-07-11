@@ -1,14 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aditya Garg</h1>
-<h3 align="center">A passionate Full-Stack Developer and Tech Enthusiast from India</h3>
-
-<img align="right" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding animation">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AG-444&label=Profile%20views&color=0e75b6&style=flat" alt="AG-444" />
-  <a href="https://twitter.com/aditya_444" target="blank">
-    <img src="https://img.shields.io/twitter/follow/aditya_444?logo=twitter&style=for-the-badge" alt="aditya_444" />
-  </a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+my+name's+Aditya+Garg.;I+love+learning.;I+love+coding.;&center=true&width=500&height=50"></a>
+<br/>
 </p>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
+
+
+<div align="center">
 
 ## 🔭 I'm currently working on
 - MERN Stack authentication systems
@@ -28,11 +25,15 @@
 - MERN Stack
 - JavaScript, React, Node.js
 
-## 📫 How to reach me
+<div align="center">
+
+## 📫 How to reach me  
 **aditya444garg@gmail.com**
 
-## 📄 Know about my experiences
+## 📄 Know about my experiences  
 [My Resume](https://drive.google.com/file/d/1FTywmjrX4md6UplQJOwQO5T_UzjHjzfs/view?usp=sharing)
+
+</div>
 
 
 ## 🛠 Technical Skills
@@ -76,15 +77,20 @@
 ![DBMS](https://img.shields.io/badge/DBMS-00599C?style=for-the-badge)
 ![API Integration](https://img.shields.io/badge/API%20Integration-F7931E?style=for-the-badge)
 
+</div>
 ---
 
 ## 📊 GitHub Stats
-
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AG-444&theme=onedark&hide_border=true" alt="GitHub Streak" /></a>
+</div>
+<br/>
+<br/>
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AG-444&show_icons=true&theme=radical" />
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AG-444&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 </div>
-
+<br/>
+<br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AG-444&layout=compact&theme=radical" />
 </div>
